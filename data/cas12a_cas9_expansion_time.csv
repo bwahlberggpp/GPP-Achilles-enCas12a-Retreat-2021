@@ -1,0 +1,37 @@
+cell_line_name,cas_type,culture_type,DT,blast_dose,expansion_time
+TCCPAN2,enAsCas12a,Adherent,42,2,10
+NCIH841,enAsCas12a,Adherent,38,2,10
+DEL,enAsCas12a,Suspension,36,8,10
+NB1,enAsCas12a,Adherent,32,8,10
+KARPAS299,enAsCas12a,Suspension,30,2,10
+CH157MN,enAsCas12a,Mixed adherent and suspension,35,2,13
+CHLA06ATRT,enAsCas12a,Mixed adherent and suspension,27,3,13
+HS683,enAsCas12a,Adherent,55,3,7
+PATU8988S,enAsCas12a,Adherent,36,10,9
+L363,enAsCas12a,Suspension,41,10,11
+SKES1,enAsCas12a,Mixed adherent and suspension,40,8,13
+SSP25,enAsCas12a,Adherent,35,10,20
+OCUG1,enAsCas12a,Adherent,55,15,7
+KU812,enAsCas12a,Adherent,80,10,18
+ZR751,enAsCas12a,Adherent,90,6,21
+D458,enAsCas12a,Mixed adherent and suspension,50,8,14
+KMS18,enAsCas12a,Suspension,21,5,13
+MC116,enAsCas12a,Suspension,36,10,24
+TCCPAN2,Cas9,Adherent,42,2,
+NCIH841,Cas9,Adherent,38,2,24
+DEL,Cas9,Suspension,36,8,41
+NB1,Cas9,Adherent,32,8,24
+KARPAS299,Cas9,Suspension,30,2,7
+CH157MN,Cas9,Mixed adherent and suspension,35,2,19
+CHLA06ATRT,Cas9,Mixed adherent and suspension,27,3,11
+HS683,Cas9,Adherent,55,3,39
+PATU8988S,Cas9,Adherent,36,10,24
+L363,Cas9,Suspension,41,10,20
+SKES1,Cas9,Mixed adherent and suspension,40,8,
+SSP25,Cas9,Adherent,35,10,14
+OCUG1,Cas9,Adherent,55,15,21
+KU812,Cas9,Adherent,80,10,28
+ZR751,Cas9,Adherent,90,6,24
+D458,Cas9,Mixed adherent and suspension,50,8,
+KMS18,Cas9,Suspension,21,5,31
+MC116,Cas9,Suspension,36,10,29
